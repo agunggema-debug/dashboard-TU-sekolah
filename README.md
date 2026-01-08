@@ -1,6 +1,9 @@
 # 🏫 Sistem Dashboard Tata Usaha Sekolah (TU-Digital)
 
 Sistem informasi berbasis web yang dirancang untuk memudahkan staf Tata Usaha dalam mengelola data SDM, kesiswaan, dan persuratan secara efisien dan elegan.
+<img width="1293" height="716" alt="image" src="https://github.com/user-attachments/assets/d727424a-61c8-4fe1-b511-3a7167d9b93c" />
+<img width="1901" height="922" alt="image" src="https://github.com/user-attachments/assets/ab723cf1-8048-4a71-92cc-3631e60ccda4" />
+
 
 ## 🚀 Fitur Utama
 * **Sistem Login Keamanan:** Membatasi akses hanya untuk admin yang berwenang.
